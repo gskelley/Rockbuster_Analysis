@@ -8,4 +8,4 @@ Rockbuster Stealth LLC is a movie rental company that used to have stores around
 
 
 ### DATA
-The [dataset](https://github.com/gskelley/Rockbuster_Analysis/blob/main/dvdrental.tar) is made up of relational database that has information on store, film, payment, customer , etc.
+The [dataset](https://github.com/gskelley/Rockbuster_Analysis/blob/main/dvdrental.tar) is made up of relational database that has information on stores, films, payments, customers, etc.
