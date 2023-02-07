@@ -1,5 +1,5 @@
 # ROCKBUSTER ANALYSIS
-A PostgreSQL-based project analysis for a fictitious movie rental comapny through CareerFoundry data analytics course program. 
+A PostgreSQL-based project analysis for a fictitious movie rental company through CareerFoundry data analytics course program. 
 
 
 
