@@ -8,4 +8,4 @@ Rockbuster Stealth LLC is a movie rental company that used to have stores around
 
 
 ### DATA
-The [dataset](C:\Users\G\Documents\CareerFoundry\Data Immersion\CASE STUDIES\Achievement 3\Rockbuster Stealth (A3)\dvdrental.zip) is used to learning purposes through CareeerFoundry Data Anaytics Course program.
+The [dataset][(https://github.com/gskelley/Rockbuster_Analysis/blob/main/dvdrental.tar)] is used to learning purposes through CareeerFoundry Data Anaytics Course program.
