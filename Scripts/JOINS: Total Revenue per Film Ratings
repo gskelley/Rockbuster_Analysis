@@ -1,0 +1,12 @@
+-- TOTAL REVENUE PER FILM RATINGS
+
+SELECT rating
+      ,SUM(D.amount) AS total_revenue
+
+FROM film A
+
+INNER JOIN inventory B ON A.film_id = B.film_id
+INNER JOIN rental C ON B.inventory_id = C.inventory_id
+INNER JOIN payment D ON C.rental_id = D.rental_id
+
+GROUP BY rating;
